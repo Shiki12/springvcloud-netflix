@@ -13,6 +13,7 @@ public class UsersApplication {
         System.out.println("git first222");
         System.out.println("hot -fix");
         System.out.println("master test");
+        System.out.println("hot -test");
     }
 
 }
