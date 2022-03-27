@@ -11,6 +11,7 @@ public class UsersApplication {
         SpringApplication.run(UsersApplication.class,args);
         System.out.println("git first");
         System.out.println("git first222");
+        System.out.println("hot -fix");
     }
 
 }
