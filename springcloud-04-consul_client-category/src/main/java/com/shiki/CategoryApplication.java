@@ -8,5 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CategoryApplication {
     public static void main(String[] args) {
         SpringApplication.run(CategoryApplication.class,args);
+        System.out.println("pull test");
     }
 }
