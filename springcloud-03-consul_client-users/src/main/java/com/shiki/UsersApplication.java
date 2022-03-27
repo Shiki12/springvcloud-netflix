@@ -15,8 +15,9 @@ public class UsersApplication {
         System.out.println("master test");
         System.out.println("hot -test");
         System.out.println("push test");
-         System.out.println("online test");
-         System.out.println("git test");
+        System.out.println("online test");
+        System.out.println("git test");
+
     }
 
 }

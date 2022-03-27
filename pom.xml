@@ -17,6 +17,8 @@
         <module>springcloud-03-consul_client-users</module>
         <module>springcloud-03-consul_client-orders</module>
         <module>springcloud-03-consul_client-orders-1</module>
+        <module>springcloud-04-consul_client-category</module>
+        <module>springcloud-04-consul_client-category</module>
     </modules>
 
 

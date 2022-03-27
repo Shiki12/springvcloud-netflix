@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @Slf4j
+
 public class OrdersController {
 
     @Value("${server.port}")
@@ -17,4 +18,6 @@ public class OrdersController {
         log.info("==========>OrdersController");
         return "进入了Order demo,当前提供的端口为--->"+port;
     }
+
+
 }
