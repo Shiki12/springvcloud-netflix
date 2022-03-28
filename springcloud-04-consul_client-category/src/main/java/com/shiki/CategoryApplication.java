@@ -9,5 +9,6 @@ public class CategoryApplication {
     public static void main(String[] args) {
         SpringApplication.run(CategoryApplication.class,args);
         System.out.println("pull test");
+        System.out.println("pull test222");
     }
 }
